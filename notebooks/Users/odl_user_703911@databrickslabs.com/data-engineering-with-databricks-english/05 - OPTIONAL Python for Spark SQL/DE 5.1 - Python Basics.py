@@ -46,6 +46,8 @@ print("databricks has realy cool features")
 
 # COMMAND ----------
 
+print("added this in github, pull this in databricks")
+
 # MAGIC %md
 # MAGIC 
 # MAGIC 
