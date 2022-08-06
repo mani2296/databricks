@@ -38,6 +38,14 @@
 
 # COMMAND ----------
 
+print("Hi mani, pull this ")
+
+# COMMAND ----------
+
+print("databricks has realy cool features")
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC 
 # MAGIC 
